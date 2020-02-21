@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Guru';
+    src: url('subset-Guru-Regular.eot');
+    src: url('subset-Guru-Regular.eot?#iefix') format('embedded-opentype'),
+        url('subset-Guru-Regular.woff2') format('woff2'),
+        url('subset-Guru-Regular.woff') format('woff'),
+        url('subset-Guru-Regular.svg#Guru-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
