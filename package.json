@@ -15,7 +15,7 @@
     "prismjs": "^1.19.0",
     "vue": "^2.6.11",
     "vue-prism-editor": "^0.5.1",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.2.0",
